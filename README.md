@@ -1,6 +1,6 @@
 # EXP_C8
 Chip 8 emulator in python
-Just uploaded this for backup purposes, but anybody is welcome to try it.
+Just uploaded this for backup purposes, but anybody is welcome to try it. I tried to make this fairly small, but it can certainly be optimized in a lot of ways.
 
 Features: 
 - All standard chip-8 opcodes implemented
@@ -10,5 +10,8 @@ Features:
 
 Put roms in the same folder as chip8.py and chip8_class.py
 
+Requirements: 
+- Pygame
+
 usage: 
-Python3 chip8.py [rom name w/o extension]
+Python3 chip8.py [rom_name.ch8 w/o extension]
