@@ -1,5 +1,6 @@
 # EXP_C8
 Chip 8 emulator in python
+![Chip-8](https://imgur.com/1936DVv.jpg)
 Just uploaded this for backup purposes, but anybody is welcome to try it. I tried to make this fairly small, but it can certainly be optimized in a lot of ways.
 
 Features: 
